@@ -27,7 +27,7 @@ async function main() {
 
 	let spec
 	try {
-	 spec = await utils.getSpec('sokol');
+	 spec = await utils.getSpec('testing');
 	} catch (e) {
 		return console.log(e.message)
 	}
