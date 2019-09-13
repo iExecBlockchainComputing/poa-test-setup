@@ -1,8 +1,8 @@
 [submodule "submodules/poa-scripts-moc"]
 	path = submodules/poa-scripts-moc
-	url = https://github.com/iExecBlockchainComputing/poa-scripts-moc
+	url = https://github.com/iExecBlockchainComputing/poa-scripts-moc.git
 	branch = sokol
 [submodule "submodules/poa-network-consensus-contracts"]
 	path = submodules/poa-network-consensus-contracts
-	url = https://github.com/iExecBlockchainComputing/poa-network-consensus-contracts
+	url = https://github.com/iExecBlockchainComputing/poa-network-consensus-contracts.git
 	branch = master
