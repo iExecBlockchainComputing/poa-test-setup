@@ -1,5 +1,5 @@
 let constants = {};
-constants.organization = 'poanetwork';
+constants.organization = 'iExecBlockchainComputing';
 constants.chainSpecRepoName = 'poa-chain-spec';
 constants.contractsRepoName = 'poa-network-consensus-contracts';
 constants.pathToContractRepo = `./submodules/${constants.contractsRepoName}`;
